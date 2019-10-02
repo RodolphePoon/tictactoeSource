@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.0.3" orientation="orthogonal" renderorder="right-up" width="3" height="3" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="tictactoeSet" tilewidth="32" tileheight="32" tilecount="3" columns="3">
+  <image source="tictactoeSet.png" width="96" height="32"/>
+ </tileset>
+ <layer name="board" width="3" height="3">
+  <data encoding="base64">
+   AQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAA
+  </data>
+ </layer>
+ <layer name="game" width="3" height="3">
+  <data encoding="base64">
+   AQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAA
+  </data>
+ </layer>
+</map>
